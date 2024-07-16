@@ -6,7 +6,7 @@ step 1: download the zip file and extract all files
 
 step 2: install opencv,mediapipe and pyautogui packages 
 
-run this command in terminal for package instalation :  
+run this command in terminal for package installation :  
     
     pip install pyautogui mediapipe opencv-python
 
