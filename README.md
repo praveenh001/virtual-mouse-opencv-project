@@ -1,6 +1,7 @@
 # virutal-mouse-
 
 how to run this program
+
 step 1: download the zip file and extract all files 
 
 step 2: install opencv,mediapipe and pyautogui packages 
